@@ -24,4 +24,11 @@ Web modules in Phase2 will be updated with Hibernate
 **Aditi**
 
 
-## Copyright and license
+## References 
+http://getbootstrap.com/
+
+http://spring.io/
+
+http://hibernate.org/
+
+https://github.com/‎
